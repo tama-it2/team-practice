@@ -28,8 +28,7 @@
 [公式ヘルプページ](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)
 
 ## 課題
-
-自分でコンフリクトを起こし、それを解決しなさい。
+趣味:ギャザ
 
 ### 課題の手順
 
